@@ -87,3 +87,16 @@ p {
 #icons i {
   font-size: 30px;
 }
+
+@media (max-width: 900px) {
+  #wrapper {
+    background-size: auto;
+    box-sizing: border-box;
+    display: block;
+    padding: 10%;
+  }
+
+  #main {
+    width: initial;
+  }
+}
