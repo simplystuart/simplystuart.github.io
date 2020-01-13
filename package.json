@@ -1,0 +1,14 @@
+{
+  "name": "simplystuart.github.io",
+  "version": "1.0.0",
+  "main": "js/main.js",
+  "repository": "https://github.com/simplystuart/simplystuart.github.io.git",
+  "author": "Stuart Dum",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx http-server"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.1"
+  }
+}
