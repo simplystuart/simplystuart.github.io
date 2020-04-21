@@ -105,6 +105,10 @@ strong {
 }
 
 @media (max-width: 900px) {
+  body {
+    overflow: hidden;
+  }
+
   #wrapper {
     background-size: auto;
     box-sizing: border-box;
