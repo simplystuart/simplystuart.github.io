@@ -27,12 +27,15 @@ h2 {
   margin: 0.5em 0 0;
 }
 
+hr {
+  margin-top: 2em;
+}
+
 p {
   color: rgb(102, 102, 102);
   font-size: 1.125em;
   line-height: 1.6em;
-  margin: 0.25em 0 0;
-  padding: 1em 0 0.25em;
+  margin: 1em 0 0;
 }
 
 strong {
@@ -44,7 +47,7 @@ strong {
   display: flex;
   height: 100%;
   justify-content: center;
-  min-height: 600px;
+  min-height: 700px;
 }
 
 #main {
@@ -72,15 +75,8 @@ strong {
   text-align: center;
 }
 
-#intro {
-  color: rgb(0, 0, 0);
-  font-size: 1em;
-  padding-bottom: 0;
-}
-
 #icons {
-  margin-top: 0.5em;
-  padding-top: 1em;
+  margin-top: 2em;
 }
 
 #icons a {
@@ -100,6 +96,12 @@ strong {
 
 #icons i {
   font-size: 30px;
+}
+
+#outro {
+  color: rgb(0, 0, 0);
+  font-size: 1em;
+  margin-top: 2em;
 }
 
 @media (max-width: 900px) {
