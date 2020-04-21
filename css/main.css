@@ -118,7 +118,7 @@ strong {
   }
 
   #main {
-    margin-bottom: 10%;
+    margin-bottom: 100vh;
     width: initial;
   }
 }
